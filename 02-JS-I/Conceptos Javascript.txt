@@ -1,0 +1,38 @@
+1. Explicación de conceptos...
+
+*Variables: 
+Son formas de guardar información que usaremos en un programa.
+
+*Strings: 
+Datos en forma de bloque de texto que se escribe entre comillas secillas o dobles 
+
+*Funciones (argumentos, return):
+Son elementos que toman una parte del código para que realice una tarea específica.
+
+Argumentos: es información o valores que se ingresan a la función que tenemos. 
+
+Return: es una instrucción que cumple con dos acciones.
+a) Entrega el resultado de una función
+b) Finaliza una función en el momento en que se indique. 
+
+*Declaraciones if:
+Es una condición que sirve para realizar una u otra operación dependiendo de la instrucción dada. 
+
+*Valores booleanos (true, false):
+Es información que puede tomar solo dos valores: true (verdadero) y false (falso). 
+
+2. Instalar Node y NPM.
+
+Ok. Hecho. 
+
+
+3. Correr los tests.
+
+Ok. Hecho. 
+
+
+4. Subir la tarea a mi repositorio. 
+
+Ok. Hecho. 
+
+
